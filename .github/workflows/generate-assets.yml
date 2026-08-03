@@ -1,0 +1,47 @@
+name: Generate Daily AI & Snake Profile Assets
+
+on:
+  schedule:
+    # Run daily at midnight UTC
+    - cron: "0 0 * * *"
+  
+  # Allows manual triggering from GitHub Actions tab
+  workflow_dispatch:
+  
+  # Run on every push to main or master
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      # Step 1: Checkout the repo
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # Step 2: Generate Snake Animation SVGs
+      - name: Generate GitHub Contribution Snake Animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.svg?color_snake=orange&color_dots=#bfd6f6,#8acdff,#08f,#0044a3,#001570
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Step 3: Deploy SVGs to 'output' branch as a blob storage asset
+      - name: Push Generated SVGs to Output Branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
