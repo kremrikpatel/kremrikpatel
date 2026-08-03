@@ -1,13 +1,22 @@
-# 💫 About Me:
-I lead the design and delivery of AI & Data Solutions that solve real-world problems at scale — from Generative AI and Agentic AI Systems to Enterprise Platforms that drive strategic decisions.
+# Hi there, I'm Kartik Patel 👋
 
-- 🔭 I’m currently working on AI/ML Harness and Loop Engineering.
-- 🌱 I’m currently learning AI Product and Jarvis System Development.
-- 👯 I’m looking to collaborate on AI/ML related open source community.
-- 💬 Ask me about any open source work for AI/ML Products.
-- 📫 How to reach me: Via Socials as below.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I lead with impact. I architect with intent. I ship systems that scale. I never stop learning.
+### 🚀 AI & Data Solutions Leader | AI Systems Architect
+
+> *I lead with impact. I architect with intent. I ship systems that scale.*
+
+### 🧠 About Me
+
+I lead the end-to-end design and delivery of high-impact AI & Data Solutions. My work spans **Generative AI**, **Agentic AI Systems**, and enterprise platforms that drive core business strategy and real-world outcomes.
+
+- 🔭 **Currently Building:** AI/ML Harness & Loop Engineering Frameworks
+- 🌱 **Currently Exploring:** AI Product Strategy & Jarvis-style Autonomous System Development
+- 👯 **Open to Collaborate:** AI/ML Open Source Projects & Community Initiatives
+- 💬 **Ask Me About:** Open Source AI/ML products, Agentic Workflows & System Design
+- 😄 **Pronouns:** He/Him
+
+### ⚡ Core Expertise
+
+`Generative AI` • `Agentic AI Systems` • `AI/ML Harnessing` • `Enterprise Data Platforms` • `Loop Engineering` • `System Architecture`
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karthikpatel) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@patelkartikd) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KartikDPatel) 
