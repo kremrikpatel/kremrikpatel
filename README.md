@@ -134,7 +134,7 @@ class KatilPatelAISystem:
 
 <br/>
 
-![Snake Animation](https://raw.githubusercontent.com/kremrikpatel/kremrikpatel/output/github-snake-dark.svg)
+![Snake Animation](https://github.com/kremrikpatel/kremrikpatel/blob/output/github-snake-dark.svg)
 
 </div>
 
