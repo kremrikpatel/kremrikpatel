@@ -22,10 +22,13 @@ I lead the design and delivery of AI & Data Solutions that solve real-world prob
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kremrikpatel&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
+
+<!-- Snake Animation -->
+<div align="center">
+    
+  ![snake gif](https://github.com//kremrikpatel/kremrikpatel/blob/output/github-snake-dark.svg)
+</div>
+
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kremrikpatel&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=kremrikpatel&icon=4&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
