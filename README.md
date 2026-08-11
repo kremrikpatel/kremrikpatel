@@ -3,7 +3,7 @@
      ════════════════════════════════════════════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=Kartik%20Patel&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%20%26%20Data%20Solutions%20Leader&descSize=20&descAlign=50&descAlignY=56" width="100%" alt="Kartik Patel — AI & Data Solutions Leader" />
+# ⚡ Katik Patel — AI & Data Solutions Leader
 
 <a href="https://linkedin.com/in/karthikpatel">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=00D9FF&center=true&vCenter=true&random=false&width=800&height=60&lines=%F0%9F%A4%96+Architecting+Agentic+AI+Systems;%E2%9A%99%EF%B8%8F+AI%2FML+Harness+%26+Loop+Engineering;%F0%9F%93%88+Scaling+Enterprise+Data+%26+AI+Platforms;%F0%9F%9A%80+Deterministic+Execution+over+Stochastic+LLMs" alt="Architecting Agentic AI Systems" />
