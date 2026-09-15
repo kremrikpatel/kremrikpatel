@@ -61,6 +61,7 @@ class KartikPatelAISystem:
 
 | | |
 |:--|:--|
+| 👨🏻‍💻 **Currently Working** | [Upayan-AI](https://github.com/kremrikpatel/Upayan-AI) 𖬺 [Agent Forge](https://github.com/kremrikpatel/agentforge) |
 | 🔬 **Currently Engineering** | AI/ML harness & loop-engineering frameworks — automated eval + guardrails |
 | 🧠 **Currently Researching** | AI product strategy & Jarvis-style autonomous agent workflows |
 | 👯 **Open-Source Intent** | Next-gen AI/ML community frameworks & tooling |
