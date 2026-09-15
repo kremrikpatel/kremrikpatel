@@ -57,11 +57,24 @@ class KartikPatelAISystem:
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="" />
 
+## 👨🏻‍💻 Currently Working
+
+> Building AI products end to end — from agent architecture down to the eval harness.
+
+| Project | What it is | Status |
+|:--|:--|:--|
+| **Upayan-AI** 🔒 | AI Career Operating System — a Jarvis-style agent ("Velayudha") for job discovery, RAG-powered role matching, tailored resumes & cover letters, auto-apply, interview prep, and voice-driven mock interviews with virtual personas. | Private · [Open an issue](https://github.com/kremrikpatel/kpprivaterepository-ar/issues) |
+| [**Agent Forge**](https://github.com/kremrikpatel/agentforge) | Production-grade multi-agent backend — a four-agent LangGraph pipeline served over FastAPI, with a multi-provider LLM gateway, layered guardrails, three-tier memory, and RAG exposed to agents as a tool | Public |
+| [**Finance Buddy**](https://github.com/kremrikpatel/financebuddy) | FinanceBuddy is an AI-powered, privacy-first personal finance platform. Designed with a single cohesive codebase, it runs natively on Windows, macOS, Linux, iOS, Android, and the Web. | Public |
+
+<sub>🔒 **`Upayan-AI` is private** while the product is under active development. **Happy to grant read access on request** — just [open an issue](https://github.com/kremrikpatel/kpprivaterepository-ar/issues) or reach out, and I'll add you as a collaborator.</sub>
+
+---
+
 ## 🔭 Active Telemetry & Research Loops
 
 | | |
 |:--|:--|
-| 👨🏻‍💻 **Currently Working** | [Upayan-AI](https://github.com/kremrikpatel/Upayan-AI) 𖬺 [Agent Forge](https://github.com/kremrikpatel/agentforge) 𖬺 [Finance Buddy](https://github.com/kremrikpatel/financebuddy) |
 | 🔬 **Currently Engineering** | AI/ML harness & loop-engineering frameworks — automated eval + guardrails |
 | 🧠 **Currently Researching** | AI product strategy & Jarvis-style autonomous agent workflows |
 | 👯 **Open-Source Intent** | Next-gen AI/ML community frameworks & tooling |
